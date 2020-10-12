@@ -9,7 +9,62 @@
   "borderWidth": "",
   "cached_js": null,
   "cached_js_script_hash": null,
-  "children": [],
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Form1",
+        "Elements",
+        "inptChoice.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Form1",
+        "Elements",
+        "lblMessage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Form1",
+        "Elements",
+        "btnCalculate.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Form1",
+        "Elements",
+        "inptPrinciple.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Form1",
+        "Elements",
+        "inptInterest.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Form1",
+        "Elements",
+        "inptMonth.json"
+      ]
+    }
+  ],
   "class": "",
   "designHeight": 0,
   "designWidth": 0,
