@@ -63,6 +63,15 @@
         "Elements",
         "btnGobackHomePageHome.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homeLoan",
+        "Elements",
+        "lblOuputHome.json"
+      ]
     }
   ],
   "class": "",

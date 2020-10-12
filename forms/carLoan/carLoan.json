@@ -63,6 +63,15 @@
         "Elements",
         "btnGobackHomePage.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "carLoan",
+        "Elements",
+        "lblOuputCar.json"
+      ]
     }
   ],
   "class": "",

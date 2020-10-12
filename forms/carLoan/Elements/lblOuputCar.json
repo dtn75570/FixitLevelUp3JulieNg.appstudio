@@ -15,11 +15,11 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": 62,
+  "height": "auto",
   "hidden": "",
-  "id": "lblCarMessage",
+  "id": "lblOuputCar",
   "labelStyle": "text",
-  "left": 6,
+  "left": 8,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 370,
+  "top": 328,
   "value": "",
-  "width": 198
+  "width": "auto"
 }
