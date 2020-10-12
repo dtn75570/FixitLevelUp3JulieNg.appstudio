@@ -23,8 +23,24 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "homePage",
+            "homePage.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "carLoan",
+            "carLoan.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "homeLoan",
+            "homeLoan.json"
           ]
         }
       ],
@@ -47,7 +63,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "homePage",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
